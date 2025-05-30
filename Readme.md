@@ -20,17 +20,18 @@ Die Ergebnisse werden als Plot gespeichert und angezeigt.
 Das Skript eignet sich gut, um die tiefen Resonanzfrequenzen eines Raumes schnell zu identifizieren.
 
 
-# Install dependencies
+## 1. Install dependencies
 Command:
 ```bash
 pip3 install -r requirements.txt
 ```
 
-## Run analysis
+## 2. Run analysis
 
 ```bash
 python3 resonance_analysis.py
 ```
 
+## 3. Use for scientific purposes or to annoy your roommates/colleagues.
 ---
 
