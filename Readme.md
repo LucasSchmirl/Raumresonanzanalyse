@@ -21,13 +21,11 @@ Das Skript eignet sich gut, um die tiefen Resonanzfrequenzen eines Raumes schnel
 
 
 ## 1. Install dependencies
-Command:
 ```bash
 pip3 install -r requirements.txt
 ```
 
 ## 2. Run analysis
-
 ```bash
 python3 resonance_analysis.py
 ```
